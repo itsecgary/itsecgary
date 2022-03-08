@@ -1,6 +1,6 @@
 [itsecgary.com](https://itsecgary.com)
 
-- 🔭 Current Projects: CTFBot, ENESBot, VisionSystem*
+- 🔭 Current Projects: CTFBot, VisionSystem*
 - 🌱 Major: Computer Engineering; 
 - 🌱 Minor: Russian Language
 - 🏫 Lab Teaching Fellow (LTF) for an introduction to engineering class at UMD (ENES100)
@@ -8,9 +8,8 @@
 
 #### Current Classes
 
-- Computer & Network Security
-- Analog & Digital Electronics
-- Computer Organization
-- Digital Circuits and Systems Laboratory
-- Advanced Russian I
-- Technology, Society, and the Future of Humanity (gen-ed)
+- Operating Systems
+- Digital Computer Design
+- Microprocessors
+- Cryptography (with OG Katz)
+- Advanced Russian II
