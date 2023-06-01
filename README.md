@@ -7,3 +7,5 @@
 #### Current Classes
 - [Applied Cryptography (CS 6260)](https://omscs.gatech.edu/cs-6260-applied-cryptography)
 
+#### Past Courses
+- [Network Security (CS 6262)](https://omscs.gatech.edu/cs-6262-network-security)
