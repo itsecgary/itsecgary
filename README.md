@@ -2,10 +2,11 @@
 
 - 🏫 B.S. Computer Engineering @ UMD
 - 🏫 Pursuing OMSCS @ GT
-- 🔭 Current Projects: [Geosint](https://github.com/JustHackingCo/geosint), [CTFBot](https://github.com/itsecgary/CTFBot)
+- 🔭 Current Projects: [Geosint](https://github.com/JustHackingCo/geosint)
 
 #### Current Class(es)
-- [Applied Cryptography (CS 6260)](https://omscs.gatech.edu/cs-6260-applied-cryptography)
+- [Network Security (CS 6262)](https://omscs.gatech.edu/cs-6262-network-security)
 
 #### Past Courses
-- [Network Security (CS 6262)](https://omscs.gatech.edu/cs-6262-network-security)
+- [Applied Cryptography (CS 6260)](https://omscs.gatech.edu/cs-6260-applied-cryptography)
+
